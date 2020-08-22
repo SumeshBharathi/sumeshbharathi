@@ -21,17 +21,17 @@ Hi there, I'm **Sumesh Bharathi Ramasamy**, a **Full stack web developer** and a
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Front-end intern with [Remote Roofing](https://www.remoteroofing.com/) working on the core website.
-- 🌱 I’m currently learning new technology web frameworks (Vue js) 
-- 🤔 My interests are with UI designing and backend engineering.
+- 👨🏽‍💻 I’m currently an Front-end intern with [Remote Roofing](https://www.remoteroofing.com/) working on building the core website.
+- 🌱 I’m currently learning new web technology frameworks (Vue js) 
+- 🤔 My interests are with UI development and back-end engineering.
 - 💼 I’m pursuing a Master's degree in Software Engineering;
+- 📝 See my [Portfolio [ sumeshbharathi.com ]](https://sumeshbharathi.com) to get detailed info.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via sumeshbharathi@gmail.com to reach me.
-- 📝 See my [Portfolio [ sumeshbharathi.com ]](https://sumeshbharathi.com) to get more info.
 
 
 **Languages and Tools:**  
-Javascript (Node Js, React, Angular (Intermediate) and Vue js ),  Dart (Flutter - Intermediate), C++
+Javascript (Node Js, React, Angular (Intermediate) and Vue js ),  Dart (Flutter - Intermediate), C++,
 HTML5, CSS3 - Bootstrap 4
 
 
