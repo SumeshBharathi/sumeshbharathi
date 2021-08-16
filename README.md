@@ -17,7 +17,7 @@
 
 Hi there, I'm **Sumesh Bharathi Ramasamy**, a **Full stack web developer** and a **Software Engineering student** 🚀 from CIT. 
 
-
+<!-- 
 
 **Talking about Personal Stuffs:**
 
@@ -28,7 +28,7 @@ Hi there, I'm **Sumesh Bharathi Ramasamy**, a **Full stack web developer** and a
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Mail me at sumeshbharathi@gmail.com
 
-
+ -->
 **Languages and Tools:**  
 Javascript (Node Js, React, Angular (Intermediate) and Vue js ),  Dart (Flutter - Intermediate), C++,
 HTML5, CSS3 - Bootstrap 4
